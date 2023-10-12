@@ -12,6 +12,11 @@ I have implemtnted the coding challenge with respect to given document. I have t
 - Unit Test(Unable to go for 100% code coverage because of shortage of time)
 - Swagger
 
+## Tools Used
+
+- Dotnet 6 (WebAPI)
+- Visual Studio 2022
+- Docker
 
 ## Installation
 
